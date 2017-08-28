@@ -1,0 +1,2 @@
+# exercicios-except
+aprendendo exception
